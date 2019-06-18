@@ -1,7 +1,12 @@
+#litter_field{
+    text-align: center;
+    display: inline-block;
+}
 .litter_style{
-    background: red;
+    background: rgb(158, 152, 152);
     height: 50px;
     width: 50px;
+    border: 2px;
     margin: 5px;
     text-align: center;
     font-size: 40px;
